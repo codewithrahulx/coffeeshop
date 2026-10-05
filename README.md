@@ -1,17 +1,40 @@
-# coffieshop
+# Coffee Shop App ☕
 
-A new Flutter project.
+A Flutter Coffee Shop mobile/web application with a clean and modern UI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Coffee product listing
+- Cappuccino, Latte, Macchiato, Americano and Espresso
+- Coffee images
+- Reusable color configuration
+- Clean Flutter project structure
+- Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+```text
+lib/
+├── main.dart
+├── Homepage.dart
+└── utils/
+    └── app_colors.dart
+
+assets/
+└── images/
+    ├── onboarding.jpg
+    ├── cappuccino1.jpg
+    ├── cappuccino2.jpg
+    ├── cappuccino3.jpg
+    ├── latte1.jpg
+    ├── latte2.jpg
+    ├── macchiato1.jpg
+    ├── americano1.jpg
+    └── espresso1.jpg
+```
